@@ -33,7 +33,7 @@ loss vs y predicted
 
 loss vs error
 
-![](2023.04.04.quantile_regression/yerror_vs_quantile.png)
+![](images/yerror_vs_quantile.png)
 
 
 The scaling factor of tau is to compensate for where we want the prediction to be. For example if we are predicting the 90th percentile, we expect the true value to lie below this, so if we predicted a higher value for the y, then it will approach closer to the 90th percentile, so we want a lower loss. 
