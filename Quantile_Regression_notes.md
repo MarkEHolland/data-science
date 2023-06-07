@@ -29,7 +29,7 @@ Plotting the loss vs prediction and vs the error: (assuming a true value of y=0)
 
 loss vs y predicted
 
-![Screenshot from 2023-04-01 22-43-01.png](2023.04.04.quantile_regression/ypred_vs_quantile.png)
+![Screenshot from 2023-04-01 22-43-01.png](data-science/images/ypred_vs_quantile.png)
 
 loss vs error
 
